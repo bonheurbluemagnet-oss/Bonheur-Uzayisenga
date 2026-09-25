@@ -1,0 +1,6 @@
+{
+  "name": "Ishema Express - Delivery & Marketplace Rwanda",
+  "description": "Rwanda's smart marketplace, supermarket product catalog, and express delivery network. Featuring multi-store supermarket price comparison, RWF catalog CMS, smart landmark delivery, multi-store cart, Buy Local Rwanda, and neighborhood pooling.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
